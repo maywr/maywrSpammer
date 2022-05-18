@@ -1,0 +1,15 @@
+customtext-кастомный текст
+enabled-включен
+ping-пинг:
+mode-Режим:
+swear-оскорбления
+scally-scally milano
+delay-Задержка:
+start-начать
+stop-стоп
+spamstart-спам начнется через 5 секунд
+spamend-спам завершен
+msgcount-количество сообщений:
+themeerror-что-то сломано с темой окна, ошибка в консоли
+defaultswear-обычные оскорбления
+longswear-огромные оскорбления

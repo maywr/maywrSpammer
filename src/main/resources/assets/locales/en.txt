@@ -1,0 +1,15 @@
+customtext-custom text
+enabled-enabled
+ping-Ping:
+mode-Mode:
+swear-swears
+scally-scally milano
+delay-Delay:
+start-Start
+stop-Stop
+spamstart-Spam will begin in 5 seconds
+spamend-Spam is done
+msgcount-message count:
+themeerror-Something is broken with ur window theme look up in the console
+defaultswear-default swears
+longswear-only long swears
